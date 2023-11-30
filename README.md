@@ -13,7 +13,7 @@ This GitHub repository is a platform for my transition journey. Its purpose is t
   - intricate psychophysics experiments
   - new algorithms for information theory and spectral decomposition of time-series and imaging data
  
-- **Showcase some class data science projects**:
+- **Showcase some classic data science projects**:
   - It's time to Kaggle
 
 - **Learn and Experiment**:
