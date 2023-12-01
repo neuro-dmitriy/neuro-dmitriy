@@ -12,14 +12,13 @@ This GitHub repository is a platform for my transition journey. Its purpose is t
   - processing and analyzing an array of electrophysiology and imaging neural recordings
   - intricate psychophysics experiments
   - new algorithms for information theory and spectral decomposition of time-series and imaging data
- 
-- **Showcase some classic data science projects**:
-  - It's time to Kaggle
 
 - **Learn and Experiment**:
   - catch up on all that LLM hype
   - play around with transformers, with particular interest in the ones implementing selective attention, e.g. Sparse Transformer and Longformer
-  - polish off and showcase classic data science skills, expanding my toolbox.
+ 
+- **Showcase some classic data science projects**:
+  - It's time to Kaggle
 
 Let's go!
 
