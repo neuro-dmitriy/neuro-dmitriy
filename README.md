@@ -18,7 +18,7 @@ This GitHub repository is a platform for my transition journey. Its purpose is t
 
 - **Learn and Experiment**:
   - catch up on all that LLM hype
-  - play around with transformers -- I'd like to try and redesign one to implement selective attention
+  - play around with transformers, with particular interest in the ones implementing selective attention, e.g. Sparse Transformer and Longformer
   - polish off and showcase classic data science skills, expanding my toolbox.
 
 Let's go!
