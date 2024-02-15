@@ -1,4 +1,4 @@
-# Hi, I'm Dmitriy Lisitsyn, PhD
+# Hi, I'm Dmitriy Lisitsyn
 
 ## Background
 With a background in math, physics, and machine learning, I've spent over a decade performing (mostly) neuroscience research at various academic institutions. During this time, I've honed advanced data analysis and modeling skills, applying them to frontier problems in theoretical, cognitive, systems, and experimental neuroscience domains.
